@@ -8,4 +8,8 @@
 ### Ajouter le repertoire du projet dans VS Code et puis dans
 ### le terminal passer la command suivante:
 
-<img width="784" alt="image" src="https://github.com/user-attachments/assets/5e3ab2e8-4c07-4ca3-ad0a-97bc25eb2b00">
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/cb7ee212-1d7c-4bb2-97c7-9095fd1200ff">
+
+### Demarrez le serveur Express:
+
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/ff35bc7c-9ca0-4803-a2f8-1ecc029cfd4a">
